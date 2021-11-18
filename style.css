@@ -49,7 +49,7 @@ body {
 }
 
 .modal-content{
-  background-color: #808080b0;
+  background-color: #808080e7;
   color: #1F1E20;
   text-shadow: 0 0 .1em #08551A;
   font-size: 1.7em;
@@ -114,7 +114,21 @@ body {
   margin-right: 1em;
 }
 
+#modalHere {
+  margin-top: 18em;
+  margin-left: 5em;
+  color: #808080b0;
+  font-family: Consolas, monaco, monospace;
+  /* -webkit-text-stroke: .05em #1F1E20; */
+  text-shadow: 0 0 .1em #0bb332;
+  font-size: 1.1em;
+  font-size-adjust: inherit;
+}
 
+#jr {
+  margin-left: 3em;
+  font-size: 1.5em;
+}
 
 
 /* .bi::before {
