@@ -68,11 +68,12 @@ body {
 
 #resumeBtn {
   font-family: Consolas, monaco, monospace;
-  font-size: 1em;
+  font-size: 1.5em;
   color: #1F1E20;
   text-shadow: 0 0 .1em #08551A;
   border-color: #08551A;
   background-color: #808080b0;
+  box-shadow: 0px 0px 15px 5px #08551A;
 }
 
 .form-control {
